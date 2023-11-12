@@ -1,0 +1,8 @@
+prefix=/home/fawwaz/pelatihan2023/devel
+
+Name: gmfc
+Description: Description of gmfc
+Version: 0.0.0
+Cflags: -I/home/fawwaz/pelatihan2023/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
